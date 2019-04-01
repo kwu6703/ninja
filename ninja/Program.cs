@@ -104,7 +104,7 @@ namespace Ninja
             }
 
             //default return
-            return 2;
+            return 0;
         }
     }
 }
