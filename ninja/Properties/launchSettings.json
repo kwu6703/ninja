@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ninja": {
+      "commandName": "Project",
+      "commandLineArgs": "hide \"in the tree\" -o \"log.txt\""
+    }
+  }
+}
